@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 ### 测试推送
+
+### 测试免密
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
